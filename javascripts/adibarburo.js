@@ -1,28 +1,3 @@
-function showrecentposts(t) {
-    for (var e = 0; e < numposts; e++) {
-        for (var i, n, r, d, a = t.feed.entry[e], c = a.title.$t, o = 0; o < a.link.length; o++)
-            if ("alternate" == a.link[o].rel) {
-                n = a.link[o].href, i = a.link[o].title;
-                try {
-                    r = t.feed.entry[e].media$thumbnail.url, d = 0
-                } catch (u) {
-                    d = 1
-                }
-                break
-            }
-        c = c.link(n);
-        var m = a.published.$t,
-            l = m.substring(0, 4),
-            s = m.substring(5, 7),
-            w = m.substring(8, 10),
-            v = new Array;
-        if (v[1] = "Jan", v[2] = "Feb", v[3] = "Mar", v[4] = "Apr", v[5] = "May", v[6] = "Jun", v[7] = "Jul", v[8] = "Aug", v[9] = "Sep", v[10] = "Oct", v[11] = "Nov", v[12] = "Dec", "content" in a) var h = a.content.$t;
-        else var h = "";
-        var b = /<\S[^>]*>/g;
-        h = h.replace(b, ""), standardstyling || document.write(""), document.write("<li>"), document.write('<div class="item-thumbnail-only">'), 0 == d ? (document.write('<div class="item-thumbnail">'), document.write('<a href="' + n + '">'), document.write('<img src="'), document.write(r), document.write('"/>'), document.write("</a>"), document.write("</div>")) : (document.write('<div class="item-thumbnail">'), document.write('<a href="' + n + '">'), document.write("<p>Nicio imagine asociata</p>"), document.write("</a>"), document.write("</div>")), document.write('<div class="item-title">'), standardstyling && document.write(""), document.write(c), standardstyling && document.write(""), 1 == showpostdate && document.write(" - " + l + " " + w + " " + v[parseInt(s, 10)]), document.write("</div>"), document.write("</div>"), document.write('<div style="clear: both;"></div>'), document.write("</li>"), standardstyling && document.write("")
-    }
-}
-
 var scrolltotop = {
     //startline: Integer. Number of pixels from top of doc scrollbar is scrolled before showing control 
     //scrollto: Keyword (Integer, or "Scroll_to_Element_ID"). How far to scroll document up when control is clicked on (0=top). 
