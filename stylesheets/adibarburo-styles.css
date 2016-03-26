@@ -604,9 +604,8 @@ a:active {
 @media screen and (max-width: 400px) {
 	 img {
 position:relative;
-    max-width:100%;
-    margin-right:0em !important;
-    width:100%;
+    max-width:105%;
+    width:105%;
     height:auto;
 }
 }
