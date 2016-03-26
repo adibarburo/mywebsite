@@ -348,7 +348,7 @@ dd {
 img {
 position:relative;
     max-width:100%;
-    width:100%;
+    width:auto;
     height:auto;
 }
 
