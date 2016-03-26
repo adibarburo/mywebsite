@@ -605,6 +605,7 @@ a:active {
 	 img {
 position:relative;
     max-width:100%;
+    margin-right:0em !important;
     width:100%;
     height:auto;
 }
