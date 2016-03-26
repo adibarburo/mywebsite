@@ -614,9 +614,6 @@ a:active {
         float: left;
         padding: 1em
     }
-    img {
-    margin-right:0em!important;
-    }
     .main-navigationpbt.toggled .nav-menu ul {
         display: block;
         left: auto;
