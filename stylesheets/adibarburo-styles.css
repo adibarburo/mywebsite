@@ -602,7 +602,12 @@ a:active {
     display: none
 }
 @media screen and (max-width: 400px) {
-
+	 img {
+position:relative;
+    max-width:100%;
+    width:100%;
+    height:auto;
+}
 }
 @media screen and (max-width: 768px) {
     .menu-togglepbt,
@@ -751,7 +756,7 @@ header.entry-header:after,
 
 #pagepbt {
     max-width: 1050px;
-    margin: 2px auto
+    margin: 1px auto
 }
 
 header.site-headerpbt {
