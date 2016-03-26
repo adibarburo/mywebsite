@@ -346,7 +346,6 @@ dd {
 
 img {
 position:relative;
-padding-right:1.5em;
     max-width:100%;
     width:auto;
     height:auto;
@@ -615,6 +614,12 @@ a:active {
         float: left;
         padding: 1em
     }
+    img {
+position:relative;
+    max-width:100%;
+    width:100%;
+    height:auto;
+}
     .main-navigationpbt.toggled .nav-menu ul {
         display: block;
         left: auto;
