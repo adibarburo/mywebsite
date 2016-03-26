@@ -1285,30 +1285,6 @@ h2.date-header {
     display: none
 }
 
-.author-profile {
-    background: #f6f6f6;
-    border: 1px solid #eee;
-    margin: 10px 0 10px 0;
-    padding: 8px 15px;
-    overflow: hidden
-}
-
-.author-profile img {
-    border: 1px solid #ddd;
-    float: left;
-    margin-right: 10px
-}
-
-.post-iconspbt {
-    margin: 5px 0 0 0;
-    padding: 0px 10px
-}
-
-.post-locationpbt {
-    margin: 5px 0;
-    padding: 5px 15px
-}
-
 .pbtsharethisbutt {
     border-bottom: 1px solid #000;
     overflow: hidden;
@@ -1339,35 +1315,6 @@ h2.date-header {
 .pbtsharethisbutt ul li a {
     padding: 0 10px;
     display: inline-block
-}
-
-.separator a[style="margin-left: 1em; margin-right: 1em;"] {
-    margin-left: auto !important;
-    margin-right: auto !important
-}
-
-.separator a[style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"] {
-    clear: none !important;
-    float: none !important;
-    margin-bottom: 0em !important;
-    margin-right: 0em !important
-}
-
-.separator a[style="clear: left; float: left; margin-bottom: 1em; margin-right: 1em;"] img {
-    float: left !important;
-    margin: 0px 10px 10px 0px
-}
-
-.separator a[style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"] {
-    clear: none !important;
-    float: none !important;
-    margin-bottom: 0em !important;
-    margin-left: 0em !important
-}
-
-.separator a[style="clear: right; float: right; margin-bottom: 1em; margin-left: 1em;"] img {
-    float: right !important;
-    margin: 0px 0px 10px 10px
 }
 
 .PopularPosts .widget-content ul li {
