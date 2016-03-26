@@ -1264,25 +1264,6 @@ h2.date-header {
     padding: 6px 0px
 }
 
-.reaction-buttons table {
-    border: none;
-    margin-bottom: 5px
-}
-
-.reaction-buttons table,
-.reaction-buttons td {
-    border: none !important
-}
-
-.pbtthumbimg {
-    float: left;
-    margin: 0px 10px 5px 0px;
-    padding: 4px;
-    border: 0px solid #eee;
-    background: none;
-    width: 200px;
-    height: auto
-}
 
 .align-center {
     text-align: center
