@@ -1,13 +1,3 @@
-body#layout ul {
-    list-style-type: none;
-    list-style: none
-}
-
-body#laygontout ul li {
-    list-style-type: none;
-    list-style: none
-}
-
 body#layout #headerbwrap {
     height: auto
 }
@@ -957,23 +947,6 @@ h2.site-descriptionnbt {
     color: #ffffff
 }
 
-.dataBottom a {
-    border: 1px solid #36c1c8;
-    border-radius: 4px;
-    display: inline-block;
-    margin: 2px 0;
-    padding: 0px 5px;
-    font-weight: 300;
-    -o-transition: all .3s ease-in-out;
-    -moz-transition: all .3s ease-in-out;
-    -webkit-transition: all .3s ease-in-out;
-    transition: all .3s ease-in-out
-}
-
-.dataBottom a:hover {
-    background: #36c1c8;
-    color: #ffffff
-}
 
 .entry-metapbt i {
     color: #36c1c8;
