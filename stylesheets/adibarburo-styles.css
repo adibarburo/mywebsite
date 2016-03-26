@@ -602,12 +602,7 @@ a:active {
     display: none
 }
 @media screen and (max-width: 400px) {
-	 img {
-position:relative;
-    max-width:100%;
-    width:100%;
-    height:auto;
-}
+
 }
 @media screen and (max-width: 768px) {
     .menu-togglepbt,
