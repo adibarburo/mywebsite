@@ -2,4 +2,4 @@
 # VWH_App-->2-->2.9.2.-->https://goo.gl/E54F0R-->
 # VWH_App_P-->2-->2.9.2.-->http://goo.gl/rqwksE-->
 
-# CRONO-->2-->2.9.2.-->https://www.google.ro-->
+# CRONO_App-->2-->2.9.2.-->https://www.google.ro-->
