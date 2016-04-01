@@ -1,1 +1,1 @@
-Update center for external application
+Update center for external application.
