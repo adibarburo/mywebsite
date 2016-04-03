@@ -776,14 +776,6 @@ header.site-headerpbt {
     float: right
 }
 
-.post-body img {
-   width: auto;
-   height: auto;
-   margin-left: -1em;
-   padding: 0;
-   border: none;
-   max-width: 100%;
-}
 
 .tr-caption-container {
   margin: 0 0 1.6em;
