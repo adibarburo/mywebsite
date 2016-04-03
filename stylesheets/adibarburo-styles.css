@@ -776,12 +776,28 @@ header.site-headerpbt {
     float: right
 }
 
-.tr-caption-container{
-margin: 0 0 1.6em;
-table-layout: fixed;
-max-width:100%;
-height:auto;
-width:100%;
+.post-body img {
+   width: 100%;
+   height: auto;
+   margin-left: -1em;
+   padding: 0;
+   border: none;
+   max-width: 100%;
+}
+
+.post-body .tr-caption-container {
+   padding: 0;
+}
+
+.post-body .tr-caption-container img {
+   padding: 0;
+   display: block;
+   width: 100%;
+   height: auto;
+   margin-left: 0;
+   max-width: 100%;
+   background: transparent;
+   border: none;
 }
 
 .site-brandingpbt {
