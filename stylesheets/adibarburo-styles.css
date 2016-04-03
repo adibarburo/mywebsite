@@ -173,7 +173,6 @@ textarea {
     font-family: Roboto, Helvetica, Arial, sans-serif;
     font-size: 15px;
     line-height: 1.5em;
-    text-rendering: optimizeLegibility;
     -webkit-font-smoothing: antialiased;
     -webkit-text-size-adjust: none
 }
@@ -1095,7 +1094,6 @@ object {
     #secondarypbt .widget {
         -webkit-column-break-inside: avoid;
         -moz-column-break-inside: avoid;
-        column-break-inside: avoid
     }
     .site-brandingpbt {
         text-align: center !important
@@ -1141,7 +1139,6 @@ object {
     #secondarypbt .widget {
         -webkit-column-break-inside: initial;
         -moz-column-break-inside: initial;
-        column-break-inside: initial
     }
     h1 {
         font-size: 22px;
@@ -1282,7 +1279,7 @@ h2.date-header {
 .pre-header {
     float: left;
     width: 100%;
-    margin 0 auto;
+    margin: 0 auto;
     padding-top: 10px;
     padding-right: 10px
 }
@@ -1294,7 +1291,7 @@ h2.date-header {
 
 .pbt-social-icons li {
     margin: 0 auto;
-    float: auto
+    float: auto;
 }
 
 hr {
@@ -1332,10 +1329,9 @@ hr {
     line-height: 20px;
     padding: 40px 20px 10px 20px;
     text-align: center;
-    margin: 2xp;
+    margin: 2px;
     padding: 0;
     position: relative;
-    zoom: 1
 }
 
 .subscribe-form {
