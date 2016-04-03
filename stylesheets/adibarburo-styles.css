@@ -785,20 +785,14 @@ header.site-headerpbt {
    max-width: 100%;
 }
 
-.post-body .tr-caption-container {
-   padding: 0;
+.tr-caption-container {
+  margin: 0 0 1.6em;
+ table-layout: fixed;
+ max-width:100%;
+ height:auto;
+ width:100%;
 }
 
-.post-body .tr-caption-container img {
-   padding: 0;
-   display: block;
-   width: auto;
-   height: auto;
-   margin-left: 0;
-   max-width: 100%;
-   background: transparent;
-   border: none;
-}
 
 .site-brandingpbt {
     padding: 0.5em 0
