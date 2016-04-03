@@ -777,7 +777,7 @@ header.site-headerpbt {
 }
 
 .post-body img {
-   width: 100%;
+   width: auto;
    height: auto;
    margin-left: -1em;
    padding: 0;
@@ -792,7 +792,7 @@ header.site-headerpbt {
 .post-body .tr-caption-container img {
    padding: 0;
    display: block;
-   width: 100%;
+   width: auto;
    height: auto;
    margin-left: 0;
    max-width: 100%;
