@@ -1,5 +1,5 @@
 # App --> Latest version --> source -->
-# VWH_App-->4-->2.9.2.-->https://goo.gl/E54F0R-->
-# VWH_App_P-->4-->2.9.2.-->http://goo.gl/rqwksE-->
+# VWH_App-->2-->2.9.2.-->https://goo.gl/E54F0R-->
+# VWH_App_P-->2-->2.9.2.-->http://goo.gl/rqwksE-->
 
 # CRONO_App-->2-->2.9.2.-->https://www.google.ro-->
